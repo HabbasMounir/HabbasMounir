@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HabbasMounir
 - 👀 I’m interested in All about programming
-- 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on our way
 
 
