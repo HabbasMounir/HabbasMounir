@@ -11,7 +11,7 @@
 ](https://twitter.com/HabbasMounir )
 
 ![HabbasMounir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabbasMounir&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-
+<a href="https://app.daily.dev/mounirhabbas"><img src="https://api.daily.dev/devcards/v2/4gLIA2sNNGX4hWofpqnsB.png?type=default&r=u46" width="356" alt="Mounir Habbas's Dev Card"/></a>
 <!--
 ![HabbasMounir's Stats](https://github-readme-stats.vercel.app/api?username=HabbasMounir&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
