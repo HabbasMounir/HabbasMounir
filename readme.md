@@ -1,5 +1,5 @@
 ![HabbasMounir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HabbasMounir&theme=blueberry&hide_border=true)
-<a style="display:block" href="https://app.daily.dev/mounirhabbas"><img src="https://api.daily.dev/devcards/v2/4gLIA2sNNGX4hWofpqnsB.png?type=default&r=u46" width="356" alt="Mounir Habbas's Dev Card"/></a>
+<a href="https://app.daily.dev/mounirhabbas"><img src="https://api.daily.dev/devcards/v2/4gLIA2sNNGX4hWofpqnsB.png?type=default&r=u46" width="356" alt="Mounir Habbas's Dev Card"/></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/HabbasMounir/count.svg)
 
